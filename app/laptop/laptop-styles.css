@@ -1,16 +1,16 @@
-#pc-info > h1 {
+#laptop-info > h1 {
   text-align: center;
   padding: 10px;
 }
 
-#pc1 {
+#laptop1 {
   float: right;
   padding: 10px 0px 10px 10px;
   width:300px;
   height: 200px;
 }
 
-#pc2 {
+#laptop2 {
   float: left;
   padding: 10px 10px 10px 0px;
   width:300px;
