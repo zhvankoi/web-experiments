@@ -1,0 +1,66 @@
+* {
+  font-size: 24px;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+#main-header {
+  background-color: #dbe7f9;
+}
+
+#main-menu {
+  list-style: none;
+}
+
+#main-menu > li {
+  display: inline-block;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+#main-menu > li:hover {
+  background-color: lightblue;
+}
+
+.selected {
+  background-color: lightblue;
+}
+
+#home-info {
+  width: 80%;
+  margin: auto;
+  text-align: justify;
+}
+
+#home-info > h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+#microsoft-logo {
+  float: left;
+  padding: 10px 10px 10px 0px;
+  width:400px;
+  height: 300px;
+}
+
+#office-photo {
+  float: right;
+  padding: 10px 0px 10px 10px;
+  width:500px;
+  height: 300px;
+}
+
+#main-footer {
+  text-align: center;
+  background-color: #dbe7f9;
+  padding: 10px;
+  clear: both;
+}
